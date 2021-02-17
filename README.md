@@ -5,6 +5,6 @@
 ### `npm install` 
 ### to install all req'd dependencies
 
-### `npm start`
+### `npm run start`
 ###  to start the local server
 
